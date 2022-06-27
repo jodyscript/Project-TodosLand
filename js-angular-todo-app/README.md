@@ -1,5 +1,7 @@
 # JsAngularTodo
 
+![](https://github.com/jodyscript/Project-TodosLand/blob/7a38df77c522b3c1038648e87087762384dd4567/js-angular-todo-app/src/assets/ss1.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
 
 ## Development server
